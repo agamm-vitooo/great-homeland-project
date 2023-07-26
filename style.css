@@ -1,0 +1,11 @@
+ html{
+  scroll-behavior:smooth;
+ }
+*{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+title-hero{
+  font-family: 'Noto Serif', serif;
+}
+
